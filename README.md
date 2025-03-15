@@ -112,7 +112,6 @@ JPC is released under the MIT License, which allows full use, modification, and 
 
 Help us build the future of AI-driven software development in Latin America! 🚀
 
-
 ---
 
 ### **📌 How to Add this README.md to GitHub**
