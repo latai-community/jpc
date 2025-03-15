@@ -82,3 +82,46 @@ We will update the example as soon as the code is generated. But the idea is som
 
 ```shell
 jpc -replace "old_text" "new_text" *.txt
+This command will search all .txt files and replace old_text with new_text.
+Example 2: Using JPC in JShell (Java REPL)
+jshell> /env -class-path jpc.jar
+jshell> import jpc.StringUtils;
+jshell> String text = "   Hello  World!  ";
+jshell> String trimmed = StringUtils.trim(text);
+
+Example 3: Copying Files in Python
+
+from jpc import FileManager
+FileManager.copy("source.txt", "destination.txt")
+
+💡 Contribution
+We welcome contributions from the community! If you'd like to help, check out our CONTRIBUTING.md guide.
+
+Report issues: Use GitHub Issues.
+Submit pull requests: Follow our coding guidelines and submit improvements.
+Discuss features: Join us on Discord!
+📜 License
+JPC is released under the MIT License, which allows full use, modification, and redistribution of the code. For a deeper explanation of the license and its implications, check out the LATAI Community README:
+
+🔗 LATAI License & Community Guidelines
+
+🌍 Join the LATAI Community!
+🔗 GitHub: LATAI Community
+🔗 WhatsApp: Join the Community
+🔗 Discord: (Link Coming Soon)
+
+Help us build the future of AI-driven software development in Latin America! 🚀
+
+
+---
+
+### **📌 How to Add this README.md to GitHub**
+1. **Go to your JPC Repository**: [https://github.com/latai-community/JPC](https://github.com/latai-community/JPC)  
+2. Click **"Add file" → "Create new file"**.  
+3. Name the file **README.md**.  
+4. **Paste the markdown content above**.  
+5. **Click "Commit new file"** to save it.  
+
+---
+
+✅ Now your JPC project will have a **well-structured and engaging README** that clearly presents the **library's purpose and links back to the LATAI community**. 🚀 Let me know if you need further refinements!
