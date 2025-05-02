@@ -123,4 +123,29 @@ Help us build the future of AI-driven software development in Latin America! �
 
 ---
 
-✅ Now your JPC project will have a **well-structured and engaging README** that clearly presents the **library's purpose and links back to the LATAI community**. 🚀 Let me know if you need further refinements!
+## 🔖 License
+
+LATAI follows the **MIT License**, which is a permissive open-source license that allows anyone to use, modify, distribute, and even sell derivatives of our code with minimal restrictions. This ensures that our work remains accessible to everyone while giving contributors and users the freedom to innovate on top of our projects.
+
+### 🔍 What Does This Mean for You?
+
+- **Free Use:** You can use our code in any project, whether personal or commercial.
+- **Modification:** You are free to improve, customize, or extend our software.
+- **Redistribution:** You can share our work with others, even sell derivatives, as long as the original license is included.
+- **No Warranty:** The software is provided "as is" without any liability on the part of LATAI contributors.
+
+### 📌 Understanding the MIT License with an Example  
+
+Let’s take **JPC**, one of our core projects, designed to automate file and text handling across multiple platforms using Java, Python, and CMD. Under the MIT License, developers can:
+
+✅ Modify JPC to integrate with their own tools.  
+✅ Extend its functionalities, such as adding support for new file formats.  
+✅ Use JPC in both personal and corporate environments without legal concerns.
+
+### 📖 Learn More About the MIT License
+
+For more details, you can refer to:
+
+- [MIT License Explained](https://choosealicense.com/licenses/mit/)
+- [Open Source Initiative - MIT License](https://opensource.org/licenses/MIT)
+- [GitHub’s Guide to Open Source Licenses](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
